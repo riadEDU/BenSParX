@@ -23,7 +23,7 @@
 ![image](https://github.com/user-attachments/assets/d1987d47-6275-4873-a032-1ac5d0d139bf)
 ![image](https://github.com/user-attachments/assets/44920fbd-073e-470d-a62a-1b700180be01)
 # SHAP Explainability of the Best Performing Selected Features
-![image](https://github.com/figure4_shap_summary_pooled_oof.png)
+![image](https://github.com/user-attachments/assets/figure4_shap_summary_pooled_oof.png)
 
 
 
