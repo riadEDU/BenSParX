@@ -25,7 +25,7 @@
 # SHAP Explainability of the Best Performing Selected Features
 ![image](figure4_shap_summary_pooled_oof.png)
 ![image](figure5_shap_waterfall_PD.png)
-![image](figure4_shap_summary_pooled_oof.png)
+![image](figure6_shap_waterfall_HC.png)
 
 
 
