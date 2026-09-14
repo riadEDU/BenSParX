@@ -13,7 +13,7 @@
 }
 ```
 # Overview
-![image](https://github.com/user-attachments/assets/104e73c8-d963-4fed-8194-50df8c9a22ca)
+![image](Methodology.pdf)
 # Dataset Details
 ## Participants
 ![image](https://github.com/user-attachments/assets/194bf251-23f2-4004-b693-b46a8631765e)
